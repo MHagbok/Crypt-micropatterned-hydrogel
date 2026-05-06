@@ -1,0 +1,1 @@
+The file [MMStack](https://github.com/MHagbok/Crypt-micropatterned-hydrogel/blob/main/v3_MMStack.10fps.avi) is a video of sedimented fluorescent nanoparticles seeded on crypt-micropatterned polymerized collagen 25% (v/v) matrigel hydrogel. Nanoparticles confirm crypt-like topography of hydrogel scaffold.
